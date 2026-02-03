@@ -1,0 +1,14 @@
+/* Style thêm cho Avatar */
+.avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 4px solid #00ffcc;
+  margin-bottom: 1rem;
+  object-fit: cover;
+}
+.header-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
